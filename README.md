@@ -4,7 +4,7 @@ NOTA: Para pegar os dados Vc pode fazer clic no botãon de editar README.
 
 YOUTUBE CLONE
 
-![I am Front-end Web Developer](https://github.com/Cherry-2023/Exercicio_Pratico_SQL/blob/main/Youtube.png))
+![I am Front-end Web Developer](https://github.com/Cherry-2023/Exercicio_Pratico_SQL/blob/main/Youtube.png)
 DIAGRAMA DO BANCO DE DADOS
 ![I am Front-end Web Developer](https://github.com/Cherry-2023/Exercicio_Pratico_SQL/blob/main/Diagrama_BD.png)
 
