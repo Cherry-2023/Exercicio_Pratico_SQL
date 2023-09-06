@@ -5,7 +5,9 @@ NOTA: Para pegar os dados Vc pode fazer clic no botãon de editar README.
 YOUTUBE CLONE
 
 ![I am Front-end Web Developer](https://github.com/Cherry-2023/Exercicio_Pratico_SQL/blob/main/Youtube.png)
+
 DIAGRAMA DO BANCO DE DADOS
+
 ![I am Front-end Web Developer](https://github.com/Cherry-2023/Exercicio_Pratico_SQL/blob/main/Diagrama_BD.png)
 
 # --DDL  -  Criando tabelas
@@ -179,6 +181,7 @@ VALUES
 # --DQLs de Exemplo BancoYOUTUBE.sql
 
 1) Para conhecer todos os videos que tem os usuarios em cada canal.
+   
 SELECT Users.firstName AS Nome, Users.lastName AS Sobre_Nome, Channels.name AS Canal, Videos.title AS Titulo_Video  
 FROM Videos
 JOIN Channels ON Videos.channel_id = Channels.id
