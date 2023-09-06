@@ -1,5 +1,7 @@
 # Exercicio_Pratico_SQL
 
+NOTA: Para pegar os dados Vc pode fazer clic no botãon de editar README.
+
 YOUTUBE CLONE
 
 ![I am Front-end Web Developer](https://github.com/Cherry-2023/Exercicio_Pratico_SQL/blob/main/Youtube.png))
