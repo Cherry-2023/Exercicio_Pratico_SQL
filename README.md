@@ -1,6 +1,6 @@
-# Exercicio_Pratico_SQL
+# Exercicio_Pratico_SQLite
 
-NOTA: Para pegar os dados Vc pode fazer clic no botãon de editar README.
+NOTA: Para pegar os dados Vc pode fazer clic no botãon de editar README. ¡Não esqueça que o Banco de Dados e de SQLite!
 
 YOUTUBE CLONE
 
